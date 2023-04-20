@@ -1,4 +1,4 @@
 [flake8]
 max-line-length = 100
 per-file-ignores =
-    */migrations/*: E501
+    migrations/*: E122, E128, W291
